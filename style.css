@@ -1,0 +1,25 @@
+body {
+  background-color: #fffaf2;
+  font-family: "Noto Serif Bengali", serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.poet {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.poem {
+  font-size: 18px;
+  line-height: 1.8;
+}
+a {
+  text-decoration: none;
+  color: #0066cc;
+}
